@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-prohooks/static/css/main.65b7aa69.chunk.css",
+    "main.js": "/react-prohooks/static/js/main.683bdb85.chunk.js",
+    "main.js.map": "/react-prohooks/static/js/main.683bdb85.chunk.js.map",
+    "runtime-main.js": "/react-prohooks/static/js/runtime-main.41dedb94.js",
+    "runtime-main.js.map": "/react-prohooks/static/js/runtime-main.41dedb94.js.map",
+    "static/js/2.fe1b270c.chunk.js": "/react-prohooks/static/js/2.fe1b270c.chunk.js",
+    "static/js/2.fe1b270c.chunk.js.map": "/react-prohooks/static/js/2.fe1b270c.chunk.js.map",
+    "index.html": "/react-prohooks/index.html",
+    "static/css/main.65b7aa69.chunk.css.map": "/react-prohooks/static/css/main.65b7aa69.chunk.css.map",
+    "static/js/2.fe1b270c.chunk.js.LICENSE.txt": "/react-prohooks/static/js/2.fe1b270c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41dedb94.js",
+    "static/js/2.fe1b270c.chunk.js",
+    "static/css/main.65b7aa69.chunk.css",
+    "static/js/main.683bdb85.chunk.js"
+  ]
+}
