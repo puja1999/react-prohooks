@@ -10,13 +10,13 @@ function App() {
       <Router>
         <header>
           <div>ProHooks</div>
-          <ul className="menu"><li><Link to="/">Home</Link></li><li><Link to="/search">Search</Link></li></ul>
+          <ul className="menu"><li><Link to="/react-prohooks">Home</Link></li><li><Link to="/search">Search</Link></li></ul>
         </header>
         <Security issuer='https://dev-28362205.okta.com/oauth2/default'
                   clientId='0oa104pr7wOvr2cbr5d7'
                   redirectUri='http://localhost:3000/callback'
                   pkce={true}>
-          <Route path='/' exact={true} component={Home}/>
+          <Route path='/react-prohooks' exact={true} component={Home}/>
         <SecureRoute path='/search' exact={true} component={Search}/>
           <Route path='/callback' component={LoginCallback}/>
         </Security>
